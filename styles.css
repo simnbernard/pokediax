@@ -11,6 +11,11 @@ body {
   width: 300px;
 }
 
+.iphone {
+  position: relative;
+  width: 100%;
+}
+
 .preview-video {
   position: absolute;
   left: 6%;
